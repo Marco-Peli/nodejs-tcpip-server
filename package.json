@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-tcpip-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marco-Peli/nodejs-tcpip-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marco-Peli/nodejs-tcpip-server/issues"
+  },
+  "homepage": "https://github.com/Marco-Peli/nodejs-tcpip-server#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
